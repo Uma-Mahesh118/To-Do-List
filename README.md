@@ -1,8 +1,6 @@
-<h1 align="center"> To-Do App 
+<h1 align="center"> To-Do Application
 <hr/>
 </h1>
-
-## To-Do List Application
 
 This is a simple Python-based To-Do List application built using the Django framework. The application allows users to:
 - Add tasks
