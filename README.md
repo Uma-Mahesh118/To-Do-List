@@ -36,16 +36,7 @@ Follow these steps to download, install, and run the To-Do List application:
 
 ### 1. Clone the Repository
 
-```bash
-git clone <repository-url>
-```
-
 ### 2. Navigate to the Project Directory
-Change into the project directory:
-
-```bash
-cd <project-directory>
-```
 
 ### 4. Install Dependencies
 Install the required dependencies:
